@@ -1,3 +1,9 @@
+# -------- vscode ---------
+.vscode
+
+# ---------- C++ ----------
+# from github/gitignore
+
 # Prerequisites
 *.d
 
