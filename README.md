@@ -22,3 +22,5 @@ This project expands upon the general concept by applying a simple theoretical m
 Source code is licensed under [GNU GPLv3](./LICENSE).
 
 Project report is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+<p align="center">📏</p>
