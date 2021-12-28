@@ -1,5 +1,5 @@
 # Infrared proximity sensor
-Simple infrared proximity sensor with dynamic ambient lighting adjustment.
+Simple infrared proximity sensor with dynamic adjustment for ambient lighting.
 
 ## Intro
 This repo contains the source code, raw data, plots, and report for my final project for the NUS EE1111B module, done in June 2021.
